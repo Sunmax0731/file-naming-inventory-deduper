@@ -1,0 +1,19 @@
+{
+  "name": "file-naming-inventory-deduper",
+  "title": "ファイル命名・棚卸し・重複整理",
+  "domain": "WindowsApp",
+  "kind": "windows-app",
+  "host": null,
+  "field": "ファイル整理",
+  "audience": "納品物、素材、作業フォルダを安全に整理したいWindows利用者",
+  "workflow": "ファイル名、用途、重複候補、予定アクションを棚卸しし、削除前に確認できる。",
+  "requiredFields": [
+    "filePath",
+    "currentName",
+    "proposedName",
+    "action"
+  ],
+  "warningField": "destructiveAction",
+  "warningMessage": "削除または移動を含むため手動確認が必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
