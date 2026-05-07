@@ -1,0 +1,31 @@
+{
+  "name": "file-naming-inventory-deduper",
+  "version": "0.1.0-alpha.1",
+  "private": false,
+  "description": "ファイル命名・棚卸し・重複整理 closed alpha package",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node scripts/check-mojibake.js && node test/representative-suite.test.js && node scripts/build-docs-zip.js && node scripts/qcds-check.js",
+    "build:docs": "node scripts/build-docs-zip.js",
+    "alpha:run": "node src/cli/index.js samples/representative-suite.json"
+  },
+  "files": [
+    "src",
+    "samples",
+    "docs",
+    "README.md",
+    "AGENTS.md",
+    "SKILL.md"
+  ],
+  "keywords": [
+    "WindowsApp",
+    "qcds",
+    "closed-alpha",
+    "windows-app"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunmax0731/file-naming-inventory-deduper.git"
+  }
+}

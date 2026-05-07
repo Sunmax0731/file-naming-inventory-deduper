@@ -1,0 +1,32 @@
+{
+  "pickupRank": 45,
+  "domain": "WindowsApp",
+  "ideaNo": 3,
+  "idea": "ファイル命名・棚卸し・重複整理",
+  "repository": "file-naming-inventory-deduper",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/WindowsApp/created_idea_003_file-naming-inventory-deduper",
+  "zipFile": "D:/AI/WindowsApp/created_idea_003_file-naming-inventory-deduper/idea_003_file-naming-inventory-deduper.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "file-naming-inventory-deduper",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/WindowsApp/Design.md",
+    "D:/AI/IDEAS/WindowsApp/Architecture.md",
+    "D:/AI/IDEAS/WindowsApp/AGENTS.md",
+    "D:/AI/IDEAS/WindowsApp/SKILL.md",
+    "D:/AI/WindowsApp/AGENTS.md",
+    "D:/AI/WindowsApp/SKILL.md"
+  ],
+  "hostInference": null
+}
