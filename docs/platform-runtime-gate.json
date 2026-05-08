@@ -1,0 +1,11 @@
+{
+  "product": "file-naming-inventory-deduper",
+  "title": "ファイル命名・棚卸し・重複整理",
+  "domain": "WindowsApp",
+  "ideaNo": 3,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
